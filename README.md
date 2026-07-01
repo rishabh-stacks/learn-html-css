@@ -10,7 +10,7 @@
 
 ## 📖 Overview
 
-This Workspace tracks my journey from Basic Web Dev, Responsive Design, and Utility-Driven User Interfaces. 
+This Workspace tracks my journey through Basic Web Dev, Responsive Design, and Utility-Driven User Interfaces. 
 It contains Component Prototypes and Full-Scale Web Projects demonstrating Modern Web Design Principles.
 
 ---
@@ -34,10 +34,10 @@ It contains Component Prototypes and Full-Scale Web Projects demonstrating Moder
 
 ## 🌟 Highlighted Projects
 
-* 🎥 **Video Platform Clone:** A complex, pixel-perfect UI replica featuring nested grid systems, sticky headers, and responsive sidebars—built entirely from scratch using native CSS.
-* 📱 **Responsive Web Apps:** A series of functional application layouts demonstrating form styling, flex lists, and adaptive typography.
-* 🎨 **Tailwind Prototypes:** Modern UI components and layouts developed rapidly using a streamlined, utility-first approach.
+* 🎥 **Video Platform Clone:** A Pixel-Perfect UI Replica featuring Nested Grid Systems, Sticky Headers, and Responsive Sidebars—built entirely from scratch using Native CSS.
+* 📱 **Responsive Web Apps:** A series of Functional Application layouts demonstrating form Styling, Flex lists, and Adaptive Typography.
+* 🎨 **Tailwind Prototypes:** Modern UI components and Layouts developed rapidly using a Streamlined, Utility-First Approach.
 
 ---
 
-*Documenting my code, one block at a time.*
+*Documenting My Code, One Block at a Time.*
