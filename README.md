@@ -35,7 +35,7 @@ It contains Component Prototypes and Full-Scale Web Projects demonstrating Moder
 ## 🌟 Highlighted Projects
 
 * 🎥 **Video Platform Clone:**
-* A Pixel-Perfect UI Replica featuring Nested Grid, Sticky Headers, and Responsive Sidebars—built entirely from scratch using Native CSS.
+* A Pixel-Perfect UI Replica featuring Nested Grids, Sticky Headers, and Responsive Sidebars entirely from scratch using Native CSS.
 
 * 📱 **Responsive Web Apps:**
 * A series of Functional Application layouts demonstrating form Styling, Flex lists, and Adaptive Typography.
