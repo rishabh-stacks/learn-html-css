@@ -34,7 +34,7 @@ It contains Component Prototypes and Full-Scale Web Projects demonstrating Moder
 
 ## 🌟 Highlighted Projects
 
-* 🎥 **Video Platform Clone:**
+* 🎥 **Video Platform Clone:** [[https://rishabh-stacks.github.io/youtube-home/]](https://rishabh-stacks.github.io/youtube-home/)
 - A Pixel-Perfect UI Replica featuring Nested Grids, Sticky Headers, and Responsive Sidebars entirely from scratch using Native CSS.
 ---
 * 📱 **Responsive Web Apps:**
