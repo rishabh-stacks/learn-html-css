@@ -12,6 +12,7 @@
 
 This Workspace tracks my journey through Basic Web Dev, Responsive Design, and Utility-Driven User Interfaces. 
 It contains Component Prototypes and Full-Scale Web Projects demonstrating Modern Web Design Principles.
+**Learning Resource:** [[THE ODIN PROJECT]](https://www.theodinproject.com/paths)
 
 ---
 
@@ -34,7 +35,7 @@ It contains Component Prototypes and Full-Scale Web Projects demonstrating Moder
 
 ## 🌟 Highlighted Projects
 
-* 🎥 **Video Platform Clone:** [[https://rishabh-stacks.github.io/youtube-home/]](https://rishabh-stacks.github.io/youtube-home/)
+* 🎥 **Video Platform Clone:** [[YouTube Home]](https://rishabh-stacks.github.io/youtube-home/)
 - A Pixel-Perfect UI Replica featuring Nested Grids, Sticky Headers, and Responsive Sidebars entirely from scratch using Native CSS.
 ---
 * 📱 **Responsive Web Apps:**
